@@ -52,21 +52,19 @@ Scuttlebutt.  It's intent is to invite folks to learn more within the site (or b
 site, if they see the video on some other network).  For that reason, it is less concerned with
 exactness than with spirit, and is the most 'markety' of our resources.
 
-### [Revised Landing Page for Scuttlebutt.nz](scuttlebuttnz-revamp/README.md)
+### [Revised Landing Page for Scuttlebutt.nz](scuttlebuttnz-revamp/)
 
 A simpler homepage for scuttlebutt that succintly explains the spirit of our community, and offers
 an entrance to both dev and non dev resources.  The page is designed for better navigation and
 keener cultural aesthetics.
 
-### [Simple Animation Explaining what to Expect when you first join
-Patchwork](onboarding-animation.md)
+### [Simple Animation Explaining what to Expect when you first join Patchwork](onboarding-animation.md)
 
 A quick and simple addition to our homepage that shows, in handy GIF form, what is going to happen
 once Patchwork is done installing and you join SSB.e
 
 
-### [Understanding SSB in Context, by Understanding, Conceptually,  how Centralized Systems
-Work](ssb-in-context/README.md) 
+### [Understanding SSB in Context, by Understanding, Conceptually,  how Centralized Systems Work](ssb-in-context/) 
 
 A series of articles/resources that explain how simple functions like sending messages or posting
 statuses happen within centralized models.  These articles detail the overlooked technical
@@ -109,9 +107,9 @@ computer to our practical discussions of airship manufacturing and governance wi
 
 ### [Tips for Getting Started](tips-for-getting-started.md)
 
-This would be a video/article about how to post, and what to post. How to
-subscribe to a channel, and what a channel means. The difference between public and private posts,
-Some popular topics to check out, and other encouragement to help new folks express their unique
-selves within our unique 'verse.
+This would be a video/article about how to post, and what to post. How to subscribe to a channel,
+and what a channel means. The difference between public and private posts, Some popular topics to
+check out, and other encouragement to help new folks express their unique selves within our unique
+'verse.
 
 
